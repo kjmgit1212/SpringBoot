@@ -1,0 +1,17 @@
+server.port=9999
+
+# servlet-context.xml
+spring.web.resources.static-locations=/resources/**
+
+spring.mvc.view.prefix=/WEB-INF/
+
+spring.mvc.view.suffix=.jsp
+
+# web.xml
+server.servlet.encording.charset=UTF-8
+server.servlet.encording.enabled=true
+server.servlet.encording.force=true
+
+# session(1800 sec == 30 min)
+server.servlet.session.timeout=1800
+

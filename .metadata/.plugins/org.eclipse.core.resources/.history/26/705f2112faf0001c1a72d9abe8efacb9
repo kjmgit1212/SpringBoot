@@ -1,0 +1,5 @@
+package com.goodee.ex01.service;
+
+public class BbsServiceImpl implements BbsService {
+
+}
