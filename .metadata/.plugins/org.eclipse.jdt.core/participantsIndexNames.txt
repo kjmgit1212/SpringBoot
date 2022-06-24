@@ -3,3 +3,5 @@ C:\GDJ45\springbootstudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1
 \ex01\src\main\java
 C:\GDJ45\springbootstudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3818338249.index
 \ex01\src\main\java
+C:\GDJ45\springbootstudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2426076072.index
+\ex02\src\main\java
